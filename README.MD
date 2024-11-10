@@ -17,4 +17,4 @@ This is a simple AI-powered chat application that integrates OpenAI’s GPT-3.5-
   - Redis for storing chat history and user context
 - **Database**: Redis (for storing user chat sessions)
 
-[Watch the video](https://vimeo.com/1028188166)
+[Watch the demo](https://vimeo.com/1028188166)
